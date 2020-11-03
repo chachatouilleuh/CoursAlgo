@@ -3,4 +3,4 @@ def echange (list):
   list[0]=list[1]
   list[1]=var
   return list
-print(echange[5,4,2,7])
+print(echange[15,8,2,7])
